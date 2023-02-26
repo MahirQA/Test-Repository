@@ -3,7 +3,7 @@ package dataTypes;
 public class WhileLoop {
 
 	public static void main(String[] args) {
-		String place = "Brooklyn";
+		String place = "Queens";
 		int start = 1;
 		
 		while(start<=3)
@@ -14,3 +14,4 @@ public class WhileLoop {
 	}
 
 }
+ 

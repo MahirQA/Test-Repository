@@ -3,7 +3,7 @@ package dataTypes;
 public class DoWhileLoop {
 
 	public static void main(String[] args) {
-		String place = "Brooklyn";
+		String place = "Queens";
 		int start = 1;
 		
 		while(start<=3)
