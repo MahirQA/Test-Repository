@@ -7,7 +7,7 @@ public class ArrayDemo {
 		//declaring array
 		String[] myArray = new String[3];
 		//assigning value to the array
-		// hello 
+		// hello . 
 		myArray[0] = "Selenium";
 		myArray[1] = "Eclipse";
 		myArray[2] = "Java";
