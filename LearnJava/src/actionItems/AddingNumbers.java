@@ -14,3 +14,10 @@ public class AddingNumbers {
 	}
 
 }
+
+	/*
+	 * // add all the numers from 5 to 15
+	 * 
+	 * int sum = 0; for (int i =5); i<=15; i++) {sum = sum +i
+	 * 
+	 */
